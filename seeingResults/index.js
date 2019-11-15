@@ -1,5 +1,5 @@
-alert('hey guys I dey alert wella');
+// alert('hey guys I dey alert wella');
 
-document.write('hello guys I am a document');
+// document.write('hello guys I am a document');
 
-console.log('this is the console statement, i Would be your best friend');
+// console.log('this is the console statement, i Would be your best friend');
